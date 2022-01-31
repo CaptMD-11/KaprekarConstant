@@ -101,7 +101,7 @@ public class KaprekarConstant {
 			number must not contain any repeat digits 
 		 */
 		
-		// replace 8315 with your number!  
+		// replace 8315 with your number!   
 		
 		System.out.println("Iterations: " + myObj.computeNumberIOfIterationsUntil6174(8315)); 
 		
