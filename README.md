@@ -6,4 +6,4 @@ Let's take 8315 for our example. Subtract the number where the digits are in low
 
 There are two rules, however. The number you choose must contain 4 digits and shouldn't contain any repeat digits. 
 
-I learned about this phenomenon through <a href="https://www.youtube.com/watch?v=d8TRcZklX_Q">this</a> Numberphile video. So I thought I might some code that'll calculate the number of iterations you have to go through until you reach 6174. Have fun! 
+I learned about this phenomenon through <a href="https://www.youtube.com/watch?v=d8TRcZklX_Q">this</a> Numberphile video. So I thought I might write some code that'll calculate the number of iterations you have to go through until you reach 6174. Have fun! 

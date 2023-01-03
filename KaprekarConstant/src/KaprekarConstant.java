@@ -19,7 +19,6 @@ public class KaprekarConstant {
 		
 	}
 	
-	
 	public int computeGreatestToLeast(int inputNumber) {
 		
 		int temp = inputNumber; 
